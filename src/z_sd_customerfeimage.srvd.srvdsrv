@@ -1,0 +1,4 @@
+@EndUserText.label: 'Customer FE image'
+define service Z_sd_customerfeimage {
+  expose z_c_customer_fe_image;
+}
